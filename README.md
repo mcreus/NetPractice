@@ -27,6 +27,7 @@ add. totaux      |  128   |      192    |     224    |     240   |  248   |   25
 
 
 
+
 Un petit aide memoire que j'ai utilise pendant mon projet pour l'adresse IP :
 
 - J'ai, tout d'abord represente le masque reseau a 255.255.255.255 soit 11111111.11111111.11111111.111111111
